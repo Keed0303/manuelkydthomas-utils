@@ -1,0 +1,30 @@
+{
+  "name": "manuelkydthomas-utils",
+  "version": "1.0.0",
+  "description": "A lightweight utility toolkit by Manuel Kyd Thomas with essential functions for null checking, data validation, and date-time formatting — optimized for TypeScript projects including Angular and Ionic.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keed0303/manuelkydthomas-utils.git"
+  },
+  "keywords": [
+    "\"typescript\""
+  ],
+  "author": "Manuel Kyd Thomas Nagpala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Keed0303/manuelkydthomas-utils/issues"
+  },
+  "homepage": "https://github.com/Keed0303/manuelkydthomas-utils#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
